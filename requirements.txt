@@ -1,0 +1,6 @@
+pip install numpy
+pip install requests
+pip install nltk
+pip install scikit
+pip install scikit-learn
+pip install beautifulsoup4
